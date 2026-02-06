@@ -1,8 +1,17 @@
 # MvRVFL: Multiview Random Vector Functional Link Network for Predicting  DNA-Binding Proteins
 
-
 Please cite the following paper if you are using this code. Reference: A. Quadir, M. Sajid, and M. Tanveer. "Multiview random vector functional link network for predicting DNA-binding proteins." arXiv preprint arXiv:2409.02588 (2026).
 
+BibTex
+-------
+```
+@article{quadir2024multiview,
+  title={Multiview random vector functional link network for predicting DNA-binding proteins},
+  author={Quadir, Abdul and Sajid, M and Tanveer, M},
+  journal={arXiv preprint arXiv:2409.02588},
+  year={2024}
+}
+```
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 The experiments are executed on a computing system possessing Python 3.11 software, an Intel(R) Xeon(R) CPU E5-2697 v4 processor operating at 2.30 GHz with 128-GB Random Access Memory (RAM), and a Windows-11 operating platform.
