@@ -18,10 +18,14 @@ The experiments are executed on a computing system running Python 3.11, an Intel
 
 We have put a demo of the “MvRVFL” model with the “breast_cancer_wisc_prog” dataset
 
-In this demonstration, the codes are run for a fixed hyperparameter for the “breast_cancer_wisc_prog” dataset
+In this demonstration, the codes are run for a fixed hyperparameter for the “breast_cancer_wisc_prog” dataset:
+
 c1 = 0.00001
+
 c2 = 1000
+
 rho =0.01
+
 N = 23
 
 For detailed hyperparameter settings, please refer to the paper.
