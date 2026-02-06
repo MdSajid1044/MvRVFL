@@ -2,6 +2,8 @@
 
 Please cite the following paper if you are using this code. Reference: A. Quadir, M. Sajid, and M. Tanveer. "Multiview random vector functional link network for predicting DNA-binding proteins." arXiv preprint arXiv:2409.02588 (2026).
 
+Arxiv Link: https://doi.org/10.48550/arXiv.2409.02588
+
 BibTex
 -------
 ```
